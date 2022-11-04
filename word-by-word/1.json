@@ -1,14 +1,18 @@
 {
-  "1": {
-    "total_words": 5,
-    "words": [
-      "بِسۡمِ",
+  "chapterName"   : "Al-Fatihah",
+  "chapterNumber" : 1,
+  "verseCount" : 7,
+  "rukuCount" :1,
+  "location": "Mecca",
+  "verses": [
+    {"verseNumber" : 1, "words" : [
+      {"ar": "بِسۡمِ", "en":"with the name (of)", "ur": "";},
       "اللهِ",
       "الرَّحۡمٰنِ",
       "الرَّحِيۡمِ",
       "١"
     ]
-  },
+  ]},
   "2": {
     "total_words": 5,
     "words": [
